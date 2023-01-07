@@ -29,6 +29,7 @@ I don't know how to start this year, but as always I will try to learn Rust agai
 * Hardware programming:
   * To understand C/C++ logic
   * Concurrency or RTOS
+  * C/C++ pure interaction with GPIO, I2C, SPI.
 * Linux Kernel
 * Reversing
 * GRPC
