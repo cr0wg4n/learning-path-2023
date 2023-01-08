@@ -22,8 +22,10 @@ I don't know how to start this year, but as always I will try to learn Rust agai
     * FTP
     * TCP/UDP
     * HTTP/HTTPS
+    * DNS
     * SSL
     * SSH
+    * SMTP
     * onion
 * Hardware programming:
   * To understand C/C++ logic
