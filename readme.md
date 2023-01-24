@@ -49,3 +49,21 @@ I'll try to put my results (code, thoughts, and doubts) here.
 ## I think is... What do you think?
 
 *This space will be filled (someday of this year)*
+
+
+## To get a job (as a Frontend Developer)
+There are tons of frontend js frameworks right now, but the industry tends to use the popular ones because popular means more resources, community, support, and so on.
+
+So, I'll practice the following:
+* React / Next
+* Angular
+
+More and more projects tend to use TS as the principal language because it guarantees safety and maintainability in some cases.
+
+To test frontend applications, there are some tools:
+* Playwright / Cypress
+* Jest 
+* Storybook
+
+For desing and UI colaboration:
+* Figma
