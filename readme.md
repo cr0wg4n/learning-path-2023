@@ -41,12 +41,18 @@ I don't know how to start this year, but as always I will try to learn Rust agai
 
 I'll try to put my results (code, thoughts, and doubts) here.
 
+## Currently Learning
+
+* Algorithms, data structures, and software architecture
+* TypeScript in depth (Javascript depth fundamentals to understand what turns really great TS).
+
+
 ## What I've learned?
 
 *This space will be filled (someday of this year)*
 
 
-## I think is... What do you think?
+## I think this... What do you think?
 
 *This space will be filled (someday of this year)*
 
@@ -56,7 +62,7 @@ There are tons of frontend js frameworks right now, but the industry tends to us
 
 So, I'll practice the following:
 * React / Next
-* Angular
+* Angular (not really 🤣)
 
 More and more projects tend to use TS as the principal language because it guarantees safety and maintainability in some cases.
 
@@ -67,3 +73,4 @@ To test frontend applications, there are some tools:
 
 For desing and UI colaboration:
 * Figma
+
