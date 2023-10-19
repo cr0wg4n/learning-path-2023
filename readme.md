@@ -45,12 +45,20 @@ I'll try to put my results (code, thoughts, and doubts) here.
 
 * Algorithms, data structures, and software architecture
 * TypeScript in depth (Javascript depth fundamentals to understand what turns really great TS).
-
+* Vue 3 best practices and Reactivity
 
 ## What I've learned?
 
 *This space will be filled (someday of this year)*
-
+* Vue 3 and the ecosystem
+  * Reactivity
+  * Style Guide
+* Cypress 
+* Jest
+  * Mocks, stubs, spies
+* Sonarqube
+* Technical Writing
+* Technical English
 
 ## I think this... What do you think?
 
